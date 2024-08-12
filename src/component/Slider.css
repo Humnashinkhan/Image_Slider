@@ -1,0 +1,19 @@
+.Slider{
+    width: 100%;
+    height: 100vh;
+}
+.Slider_img{
+    background-color: green;
+    width: 100%;
+    height: 80vh;
+    margin-top: 80px;
+    position:relative;
+    justify-content: center;
+    display: flex;
+}
+.btn{
+    position: absolute;
+    bottom: 50px;
+    display: flex;
+    gap: 20px;
+}
